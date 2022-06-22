@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">Hi 👋, I'm Edmar Jan B. Gumtang</h1>
 <h3 align="center">A passionate web developer from Philippines 🇵🇭</h3>
-<img border-radius="15px" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img border-radius="50%" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <a href="https://twitter.com/dgreatej_05" target="blank"><img src="https://img.shields.io/twitter/follow/dgreatej_05?logo=twitter&style=for-the-badge" alt="dgreatej_05" /></a> </p>
 
