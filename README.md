@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **edmargumtang5@gmail.com**
 
+- 👨‍💻 See my portfolio here [http://dgreatej5.github.io/](http://dgreatej5.github.io/)
+
 - ⚡ Fun fact **I love playing video games like Valorant**
 
 <h3 align="left">Skills</h3>
