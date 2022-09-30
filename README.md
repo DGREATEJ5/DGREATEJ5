@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Philippines 🇵🇭</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm Edmar+;A+web+developer+from+Philippines+;Drinking+a+coffee...+;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <img border-radius="50%" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
